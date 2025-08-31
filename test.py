@@ -1,3 +1,4 @@
-print ('')
-print ('')
-print ('')
+print ('hello')
+print ('hello')
+print ('hello')
+print ('hello')
