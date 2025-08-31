@@ -1,1 +1,1 @@
-not-tracked.js
+console.log("yamana")
